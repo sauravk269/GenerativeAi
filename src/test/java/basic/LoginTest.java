@@ -1,3 +1,5 @@
+package basic;
+
 import core.BaseTest;
 import org.testng.annotations.Test;
 
